@@ -54,6 +54,7 @@ button:hover {
 li input[type="checkbox"] {
     position: relative;
     left: 10px;
+    margin-right: 5px;
 }
 
 .popover {
