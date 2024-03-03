@@ -51,6 +51,11 @@ button:hover {
     width: 25%;
 }
 
+li input[type="checkbox"] {
+    position: relative;
+    left: 10px;
+}
+
 .popover {
     visibility: hidden;
     width: 100%;
